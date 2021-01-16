@@ -129,3 +129,7 @@ main .main-buttons button:hover {
   box-shadow: 0 1px 1px #000001;
   color: #dae1ea;
 }
+
+main .main-texto {
+  font-size: 12px;
+}
